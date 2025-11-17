@@ -5,15 +5,6 @@ I love learning new things, solving problems, and creating projects that blend *
 
 ---
 
-## 🚀 What I’m Currently Working On
-
-* 💼 Grinding for **SWE internships**
-* 📱 **Mobile app for productivity boosting** (Dart)
-* 🏎️ **F1 analysis tool** (Python)
-* 🧮 **Personal algorithmic investing system** (multi-languages)
-
----
-
 ## 🌱 What I’m Learning
 
 * Data structures & algorithms (for interviews)
