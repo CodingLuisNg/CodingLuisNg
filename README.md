@@ -14,22 +14,6 @@ I love learning new things, solving problems, and creating projects that blend *
 
 ---
 
-## 🛠 Tech Stack & Tools
-
-**Languages:**
-`C++` • `Python` • `TypeScript` • `Java` • `SQL`
-
-**Frameworks & Libraries:**
-`React` • `Express` • `Spring Boot` • `Node.js`
-
-**Databases:**
-`MySQL` • `MongoDB` (learning)
-
-**Other:**
-`Git` • `Docker` • `Pandas` • `NumPy`
-
----
-
 ## 🔭 What I Enjoy Building and Open to Collaborate On
 
 * Full-stack and data-driven applications/systems
