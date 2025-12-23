@@ -26,4 +26,5 @@ I’m a Computer Science major from HKU, passionate about **software engineering
 ## 📫 Connect With Me
 
 📧 Email: **[email.luisng@gmail.com](mailto:email.luisng@gmail.com)**
+
 💼 **[LinkedIn](https://www.linkedin.com/in/chiyiungluis/)**
