@@ -1,32 +1,28 @@
-# **Hi there 👋 I'm Luis**
+# Hi there 👋, I'm Luis
 
-I’m a Computer Science major (Finance minor) from HKU, passionate about **software engineering, data analysis, quantitative finance, and building products that help people**.
-I love learning new things, solving problems, and creating projects that blend **tech, data, and real-world impact**.
+I’m a Computer Science major with a Finance minor at HKU. I love **software engineering, data-driven projects, quantitative finance, and building products that help people**.
+---
+
+## 🌱 Currently Learning
+
+* Data structures & algorithms (interview preparation)
+* Data science & machine learning
+* System design & backend architecture
+* Cybersecurity & cloud computing for actual deployment
 
 ---
 
-## 🌱 What I’m Learning
+## 🔭 What I Build / Open to Collaborate On
 
-* Data structures & algorithms (for interviews)
-* Data science and machine learning
-* System design + backend architecture
-* Cyber security and cloud computing for actual deployment
-
----
-
-## 🔭 What I Enjoy Building and Open to Collaborate On
-
-* Full-stack and data-driven applications/systems
-* Quant projects: Investment tools & financial models
-* Formula 1 analytics (huge F1 fan 🏎️🔥)
-* Educational games
-* Open-source tooling
+* Quantitative finance tools and models
+* Formula 1 analytics & simulations (huge F1 fan 🏎️🔥)
+* Educational games & learning tools
+* Open-source utilities and frameworks
 * Anything cool with real-world impact
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Connect With Me
 
-📧 Email: **email.luisng@gmail.com**
-
-💼 **[LinkedIn](https://www.linkedin.com/in/chiyiungluis/)**
+* 📧 Email: **[email.luisng@gmail.com](mailto:email.luisng@gmail.com)**
+* 💼 [LinkedIn](https://www.linkedin.com/in/chiyiungluis/)
