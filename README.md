@@ -1,5 +1,5 @@
-# **Hi there 👋 I'm Luis**
-I’m a Computer Science major from HKU, passionate about **software engineering, data analysis, quantitative finance, and building products that help people**.
+# Hi there 👋 I'm Luis
+I’m a Computer Science major from HKU, passionate about software engineering, data analysis, quantitative finance, and building products that help people.
 ---
 ## 🔭 What I Enjoy Building and Open to Collaborate On
 * Quant projects: Investment tools & financial models
