@@ -4,15 +4,6 @@ I’m a Computer Science major from HKU, passionate about **software engineering
 
 ---
 
-## 🌱 What I’m Learning
-
-* Data structures & algorithms (for interviews)
-* Data science and machine learning
-* System design + backend architecture
-* Cyber security and cloud computing for actual deployment
-
----
-
 ## 🔭 What I Enjoy Building and Open to Collaborate On
 
 * Quant projects: Investment tools & financial models
